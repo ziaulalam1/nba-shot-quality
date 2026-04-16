@@ -2,8 +2,6 @@
 
 A backend API that computes context-adjusted shot quality for NBA players. Raw field goal percentage hides the real story -- this API separates good shooters taking bad shots from bad shooters taking good ones, then quantifies the difference.
 
-Humanized: YES
-
 ## The core insight
 
 A player shooting 38% from three looks mediocre on paper. But when you account for the fact that 60% of those attempts come with a defender less than two feet away, and their wide-open 3PT percentage is 44%, the problem isn't shooting ability. It's shot selection. That distinction only shows up when you condition on defender proximity.

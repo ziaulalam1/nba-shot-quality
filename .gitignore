@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 cache/
 .pytest_cache/
+CLAUDE.md
+.claude/
+INTERVIEW.md
+INTERVIEW_CHEATSHEET.md
